@@ -1,0 +1,21 @@
+What is Langchain?
+Langchain is open-source framework(Built with Python or javaScript) that help developers to build apps using Large Language models(LLM)
+Like GPT/Chatgpt
+
+Why do we need Langchains?
+Usally ypou can create a chatbot or they can run on a single propmt but real world apps need more features like memory/resoning/connect to api etc/chain together in steps thus langchain provides these all.
+
+What we can Build using langchains?
+We can build chatbots with own memory/smater one,connect api database,question answering documents like uploading pdf model will answer,Al agents,custom apps.
+
+
+
+ Summary
+
+LangChain = a framework for building LLM apps
+
+Helps connect GPT to tools, memory, and workflows
+
+Used to make chatbots, assistants, and AI agents
+
+Built in Python + JavaScript
